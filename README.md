@@ -31,4 +31,4 @@ Exploratory Data Analysis on Netflix Movies & TV Shows dataset to understand con
 - `netflix_eda.ipynb` - Complete analysis notebook
 
 ## Author
-[Your Name]
+ANMOL BISWAL 
